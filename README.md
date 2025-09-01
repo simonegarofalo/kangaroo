@@ -2,13 +2,15 @@
 
 **Keep everything in one safe place.**
 
-Kangaroo is a lightweight bookmark manager that lets you **save, view, and delete links** in a clean interface. Built with **Node.js, Express, MySQL, and Vanilla JS**, it provides a simple and personal way to keep your favorite URLs organized.
+Kangaroo is a lightweight bookmark manager that lets you **save, view, and delete links** in a clean interface.
+
+Built with **Node.js, Express, MySQL, and Vanilla JS**, it provides a simple and personal way to keep your favorite URLs organized.
 
 ---
 
 ## Demo
 
-You can preview the app locally by opening index.html in your browser **after installation below** or see it live here: [Live Demo]
+You can preview the app locally by opening index.html in your browser **after installation below** or see it live here: [Live Demo](https://kangaroo-p2gq.onrender.com/).
 
 ---
 

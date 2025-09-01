@@ -9,8 +9,8 @@ async function ensureTable() {
   await con.execute(`
     CREATE TABLE IF NOT EXISTS contents (
       id INT AUTO_INCREMENT PRIMARY KEY,
-      content VARCHAR(100) NOT NULL,
-      title VARCHAR(100) NOT NULL,
+      content TEXT NOT NULL,
+      title VARCHAR(500) NOT NULL,
       created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
     )
   `);
