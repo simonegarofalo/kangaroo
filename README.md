@@ -1,3 +1,5 @@
+![kangaroo](./assets/kangaroo.gif)
+
 # Kangaroo
 
 **Keep everything in one safe place.**
