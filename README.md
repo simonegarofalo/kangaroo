@@ -1,4 +1,4 @@
-![kangaroo](./assets/kangaroo.gif)
+![kangaroo](/assets/kangaroo.gif)
 
 # Kangaroo
 
